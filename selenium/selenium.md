@@ -1,6 +1,6 @@
 # Selenium
 
-O **Selenium** é um projeto criado com o objetivo de facilitar e automatizar testes de interface web, principalmente testes do tipo **end-to-end (E2E)**.
+O **Selenium** é um projeto criado com o objetivo de facilitar e automatizar testes de interface web, principalmente testes do tipo **end-to-end (E2E)**. Surgiu em 2004.
 
 Ele é uma ferramenta **open source** e, atualmente, uma das mais populares e bastante utilizada no mercado para automação de navegadores, permitindo simular ações reais de um usuário em uma aplicação web.
 
@@ -29,7 +29,7 @@ OBS: Atualmente o `webdriver-manager` (é uma biblioteca) facilita a gestão de 
 
 - O Selenium pode interagir com sites que usam muito JS. 
 
-- Bastante conhecido no mercado, então existe uma base forte. 
+- Bastante conhecido no mercado, então existe uma base forte.
 
 ## Desvantagens 
 - Ele é lento, uma vez que precisa abrir e controlar um navegador real ou em modo headless. 
@@ -40,11 +40,13 @@ OBS: Atualmente o `webdriver-manager` (é uma biblioteca) facilita a gestão de 
 
 - Comparado a ferramentas mais modernas, como Playwright e Cypress, o Selenium pode exigir mais configuração e mais cuidado na escrita dos testes.
 
+- Basicamente, demanda muita configuração. 
+
 ## Dependências 
+- Python instalado no sistema (ou a linguagem que for utilizar);
 - Utilizando Python, apenas a biblioteca;
 - Um navegador;
-- Driver do navegador. Porém, nas versões mais recentes do Selenium, existe o Selenium Manager, como foi dito anteriormente, que é uma ferramenta oficial que ajuda a gerenciar automaticamente os drivers dos navegadores. 
+- Driver do navegador específico. Porém, nas versões mais recentes do Selenium, existe o Selenium Manager, como foi dito anteriormente, que é uma ferramenta oficial que ajuda a gerenciar automaticamente os drivers dos navegadores. 
 
 
-## Referências
-https://www.youtube.com/watch?v=ei6rXPljszM
+**VIDEO EXPLORANDO O SELENIUM:** https://www.youtube.com/watch?v=ei6rXPljszM

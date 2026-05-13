@@ -42,6 +42,8 @@ OBS: Atualmente o `webdriver-manager` (é uma biblioteca) facilita a gestão de 
 
 - Basicamente, demanda muita configuração. 
 
+- Mais trabalho integrar com CI/CD do Github Actions.
+
 ## Dependências 
 - Python instalado no sistema (ou a linguagem que for utilizar);
 - Utilizando Python, apenas a biblioteca;

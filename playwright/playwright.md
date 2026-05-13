@@ -35,6 +35,8 @@ Exemplo: você abre o navegador, clica em botões, preenche campos, e a ferramen
 
 - Depende de uma instalação da biblioteca na linguagem e de rodar um comando para instalar os navegadores próprios, o que permite manter uma versão congelada do "driver" do navegador. 
 
+- Fácil de integrar com CI/CD do Github Actions.
+
 **ATENÇÃO:** O Selenium consegue fazer quase tudo, mas muitas coisas dependem de configuração extra, enquanto o Playwright já entrega várias dessas funcionalidades integradas, portanto é mais prático. 
 
 ## Desvantagens

@@ -53,3 +53,9 @@ Exemplo: você abre o navegador, clica em botões, preenche campos, e a ferramen
 - Rodar o comando para instalar os browsers usados pelo Playwright.
 
 **COMPARAÇÃO DIRETA ENTRE PLAYWRIGHT E SELENIUM:** https://www.youtube.com/watch?v=Iayuu62RIM4
+
+
+## Tutorial de uso
+Vídeo: https://www.youtube.com/watch?v=yNuTu8csOU0
+Playlist: https://www.youtube.com/watch?v=OJcnDJz57UY
+Playlist2: https://www.youtube.com/watch?v=YNyjIPxCxNQ&list=PLjN70jnl7au90KkTZDvlOFsmC6sLP3525&index=3

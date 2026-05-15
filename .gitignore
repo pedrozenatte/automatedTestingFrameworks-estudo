@@ -4,6 +4,3 @@
 # Cache Python
 __pycache__/
 *.pyc
-
-# Playwright
-.playwright_installed
